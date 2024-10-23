@@ -1,5 +1,6 @@
 mern stack
 
+belajar git and github dulu
 mongo db
 expres
 react js
