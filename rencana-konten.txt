@@ -1,0 +1,6 @@
+mern stack
+
+mongo db
+expres
+react js
+node js
